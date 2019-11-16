@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN'
+export const REGISTER = 'REGISTER'
+export const GET_PRODUCT = 'GET_PRODUCT'
+export const ADD_CART = 'ADD_CART'
+export const DETAILS_PRODUCT = 'DETAILS_PRODUCT'
+export const PAYMENT = 'PAYMENT'
